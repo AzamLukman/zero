@@ -121,3 +121,6 @@ http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="Movies",FOX Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="300" tvg-name="iQiyi" tvg-logo="https://i.ibb.co/t8Q6NM1/astro-qiyi.png" group-title="ASTOLOL",iQiyi
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/202
