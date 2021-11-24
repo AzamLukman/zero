@@ -495,3 +495,21 @@ http://202.75.23.34:1400/live/ch33/03.m3u8
 #EXTINF:0 group-title="TV channels-USA",Discovery World
 http://202.75.23.34:1400/live/ch30/03.m3u8
 source: http://1rakyat.blogspot.my/2015/04/astro-iptv-channellist.html#ixzz3ydFHCLuz
+
+
+
+#NAURA
+http://analoquetv.online/streams/d/Naura/playlist.m3u8
+#ASTROK RIA
+http://analoquetv.online/streams/d/Ria/playlist.m3u8
+#ASTROK WARNA
+http://analoquetv.online/streams/d/Warna/playlist.m3u8
+#ASTROK WARNA (B)
+http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
+#ASTROK CITRA
+http://analoquetv.online/streams/d/Citra/playlist.m3u8
+#ASTROK OASIS
+http://analoquetv.online/streams/d/Oasis/playlist.m3u8
+#ASTROK PRIMA
+http://analoquetv.online/streams/d/Prima/playlist.m3u8
+
