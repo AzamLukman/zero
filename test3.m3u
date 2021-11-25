@@ -37,11 +37,15 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+http://analoquetv.online/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
+#http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+http://analoquetv.online/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -50,36 +54,32 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440"
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
-#http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 http://analoquetv.online/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
-#http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://analoquetv.online/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA H
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
 http://analoquetv.online/streams/d/Warna/playlist.m3u8
+#http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
 
-http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO",ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
-#http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-http://analoquetv.online/streams/d/Citra/playlist.m3u8
+#http://analoquetv.online/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="720" tvg-name="HELLO HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+http://194.233.86.5:5080/WebRTCApp/streams/hboo.m3u8
 
 #EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="ASTRO",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+http://194.233.86.5:5080/WebRTCApp/streams/cinemax.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO FAMILY" group-title="ASTRO",HBO FAMILY
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
@@ -90,8 +90,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="ASTRO",HBO SIGNATURE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
+
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="Kids",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#http://93.190.139.35:8278/streams/d/Ceria/playlist.m3u8
+http://194.233.86.5:5080/WebRTCApp/streams/ceria.m3u8
 
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-country="JP" tvg-language="Japan" tvg-logo="https://i.postimg.cc/P5rHgFV6/1200px-Animax-svg.png" group-title="Kids",Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
@@ -138,424 +140,7 @@ http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/189
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/190
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="garuda",ANTV
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/191
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="data:image/jpeg;base64,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" group-title="garuda",SCTV
-#http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/192
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="Astro Warna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" tvg-chno="14" channel-id="14" tvg-group="MY/SG" group-title="MYSG",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Animax English Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax English Subs
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1 tvg-name="Animax Indonesia Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Indonesia Subs
-http://93.190.139.35:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 tvg-name="Animax Indonesia Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Indonesia Subs Backup
-http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-name="Animax Indonesia Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Indonesia Subs Backup 2
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-name="Animax Indonesia Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Indonesia Subs Backup 3
-http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-name="Animax Vietnam Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Vietnam Subs
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="JAPAN",Aniplus Indonesia Subs
-http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="JAPAN",Aniplus Indonesia Subs Backup
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-name="AT-X" tvg-logo="https://i.postimg.cc/VsHq0tSf/download-62.png" group-title="JAPAN",AT-X
-https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 tvg-id="Sony Gem" type-name="Sony Gem" tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="JAPAN",Sony Gem
-http://iptv.tvmalaysia.cc:80/penang189/penang189/8864
-#EXTINF:-1 tvg-id="Sony Gem" type-name="Sony Gem" tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="JAPAN",Sony Gem Backup
-http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-#EXTINF:-1 tvg-id="Sony Gem" type-name="Sony Gem" tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="JAPAN",Sony Gem Backup 2
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-#EXTINF:-1 tvg-id="Waku-Waku Japan" type-name="Waku-Waku Japan" tvg-logo=https://i.postimg.cc/fRqdvrwT/download-76.png" JAPAN" ,Waku-Waku Japan
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065986
-#EXTINF:-1 tvg-id="Sony One" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Korea", Sony One
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="Sony One" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Korea", Sony One Backup
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440"
-
-#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
-#http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
-
-#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
-
-#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
-http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-
-#EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO",ASTRO AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-
-#EXTINF:-1 tvg-id="720" tvg-name="HELLO HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
-
-#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
-
-#EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="ASTRO",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO FAMILY" group-title="ASTRO",HBO FAMILY
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="ASTRO",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="ASTRO",HBO SIGNATURE
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-Vj5ZvvXIn4qo_bCotf3AOzEEtDPqhXeip8A0dQrjaq4_wLq25eu6-Yu_Xkuh_whhVhXbEKoS3byo_msjnFSryok.png" tvg-id="astroarena.my" ,MY: ASTRO ARENA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240967
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-Vv6tS_dRqlZMB6cHmsN-Fu7qHTemU3FZR3Z028VMwbAGj_rYN7snxCO7yfyO380sPvY4B9CO_EX6GyjEiFF60fw.png" tvg-id="astrosupersport.my" ,MY: ASTRO SUPERSPORT HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240968
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-Vh_gZ80gfYTb8AA40I8TbSCCaltl7ihyhru7zX5GCXMZsxkY6Mz9wv9lS7cRUloyu_QMYNRbBFF7Ysa0fylJERM.png" tvg-id="astrosupersport2.my" ,MY: ASTRO SUPERSPORT 2 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240969
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:8080/images/6a6489c7c7793b602245162ecc2e4bcb.png" tvg-id="astrosupersport2.my" ,MY: ASTRO SUPERSPORT 3 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240970
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:8080/images/430b7f42675189d95c370e25b7ec9c9b.png" tvg-id="astrosupersport4.my" ,MY: ASTRO SUPERSPORT 4 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240971
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoEUKq4YjsdRiHs8fvcxZal2DC3OaRtg35n6re2KRQpMXOJNFaZn4j3DHU15aNKSLgg.png" tvg-id="beinsports.my" ,MY: beIN SPORTS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240975
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-Vjd4Gy7aaTT8DZh5y9fteGMGiC_Dmwavh4daolb-7lcHtOgdbuqMhBCJjERCPmHCv84PhGnmD5nZ7405RKuChVE.png" tvg-id="beinsportsmax.my" ,MY: bEIN SPORTS MAX HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240976
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoMNKf0qc_F-HjgUkKiKcBXnnlzuMuuk5j2WmcvWw59KO2spN-ZdNbSF6CvQswRANTg.png" tvg-id="eurosport.my" ,MY: EUROSPORT HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240977
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoJSB025nbDxBpDYJQRNs6IDnmioWL7SZPS8881u1f4HSHifTtBAdgH43kDgrCKPIBg.png" ,MY: WWE NETWORK HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240978
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPl3-Tr7tUNZyTyN1ct7GA4Q-sVEogdpgI9hQTLI_f0sobVOaiCpDS5xR21KAeBHJQ.png" tvg-id="golfchannel.my" ,MY: GOLF CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240979
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoBZ-ZQRhIaW6uyp4sAx7cds2vd0uixZ1ofgjd5HQyk0MKuswBsKx6aE-vke-1EFydw.png" tvg-id="rugbypass.my" ,MY: ASTRO RUGBY PASS TV HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240980
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-VukXd_dxjK-IZDVxXCXsieVAq34fYeLZkpmn1DIxzA3nY7nirZuGWptYXcbqY7WKj6dES22kv0o2Ug2rwiquHbg.png" tvg-id="astrocricket.my" ,MY: ASTRO CRICKET HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240981
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="astrosupersport.my" ,MY: ASTRO SUPERSPORT EVENTS 6 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240982
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="specialeventsports01.my" ,MY: ASTRO SUPERSPORT EVENTS 1 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240983
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoM9czwhvB003X46qwCmCUa-f8Soz6cXmd8DniRo1l9nJc2LEmYNXF0i3emBJvJegzw.png" tvg-id="AstroSuperSport2.my" ,MY: ASTRO SUPERSPORT EVENTS 2 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240984
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoIj9Pbl7ffSbfCdfnRHraSQfyKhUtijh28-Fo1mERzXVQuFhHuj0591tLeGKmKjIqA.png" tvg-id="AstroSuperSport3.my" ,MY: ASTRO SUPERSPORT EVENTS 3 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240985
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="AstroSuperSport4.my" ,MY: ASTRO SUPERSPORT EVENTS 4 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240986
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoGcvMe7S3PphfcBIbM4T5G7v1zuzSpYuJJ4fl8Wj_2-ueCS6QUZAb8GLfB4SmWLjxg.png" tvg-id="astroria.my" ,MY: ASTRO RIA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240987
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-ViEes8NDmYVH7qo-eWHZUZJXH0K8zJTXVCPFGLe8b9PRV1HNwGcf5YqKmdEpbqYNNpXGeZb0mU2h1diWHHhH0u8.png" tvg-id="astroprima.my" ,MY: ASTRO PRIMA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240988
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoFXdkOWnwTm8FtDYAh_cwQSntC4EpqTP66HAISwIGRq2J8JkKG1mjJEArWNOBD_gvg.png" tvg-id="AstroRania.my" ,MY: ASTRO OASIS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240989
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoAYOh34NQ4tGsmSFvSR3NeK9jEqJv6wbPzkSBgiZC3kgjQHlyV9Qkm7UTcP_AHJ0nA.png" tvg-id="astrowarna.my" ,MY: ASTRO WARNA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240990
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-ViWTImSFzgAB4gij_jtTDyPdslJKJG4boCc74durYrlmJttSX-ZgJs9fGgl8zKSdx2mf1-G2J3EfICSmseq0HFI.png" tvg-id="naura.my" ,MY: ASTRO NAURA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240991
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPyizLRfW18HvMrkLlZ1YNUK6JYFQd1J76gcBU6eR7twN0N3R0qAb8XhsRjkexJ2mw.png" ,MY: TV ALHIJRAH
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240992
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoJ3M6nDUfkSiK-KGnwo0hiyIXfGIkntf6jN61_yptobFnXTHVMCptHx3duEz7-gC9A.png" tvg-id="colorshd.in" ,MY: COLORS
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240993
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="GoShop.my" ,MY: Sports SPO TV HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240994
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-Vj5ZvvXIn4qo_bCotf3AOzEEtDPqhXeip8A0dQrjaq4_wLq25eu6-Yu_Xkuh_whhVhXbEKoS3byo_msjnFSryok.png" tvg-id="astroarena2.my" ,MY: ASTRO ARENA 2 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240995
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoA1vOb8qo7piGAu7yLRgb86NpwmLH5_2qxG6W2Yz4TlPvcA2hajXpWaMZugFhq9gRw.png" tvg-id="astrovaanavil.my" ,MY: ASTRO VAANAVIL
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240996
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoJfcysg_8qGQ7KF8AAIBfPH4-F5IamvFwbwwOiFIvSCiT_-n9vww_kjY45a974clvw.png" tvg-id="makkaltv.in" ,MY: MAKKAL TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240997
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoF0tgkHzDKwOQC1HHsn0ttmLjBe73V5xyxUzQPqw4qOvuiiER2ODwSlBy57-Y44VIw.png" tvg-id="SUNMTV" ,MY: SUN MUSIC HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240998
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoFsL3jx76h87A9WriCli4WonDu6RmaLfUEz4n5O8qg0eh7lkVog0g0W60VLWfyjBuQ.png" tvg-id="chuttitv.in" ,MY: CHUTTI TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240999
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoK8JlrjbzEu0ebSIkWpmtMLn7ih6RVmN8Vq3HpCWg52nISDUb7gms6P7Bgbi8jh0Sw.png" tvg-id="ADTYA" ,MY: ADITHYA
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241000
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/7d4a1548640e0c2427eb4b2f73937413.png" tvg-id="zeetamilhd.in" ,MY: ZEE Tamil HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241001
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoN9T14sSBfLmkysLyQ0vqzG6OVjscHY39ltq3ASMrkbQO7t8u6-ZhnhETmlJhKMD7w.png" tvg-id="AstroTV.de" ,MY: ASTRO VINMEEN HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241002
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoH2vOmpakTiE3yYn0yvMz4o4w3nXOds_1NV-WZhk3Nb6tYQJ0CiQMwH3ufplgdzmBw.png" tvg-id="SVJAY" ,MY: STAR VIJAY HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241003
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/sCLlyf_T5fr5AkvPufk0WYmAdo3sqjNq8W2ZeaQfI7X3QgFWUa6Zv1bRtmLhdaSBurDZI0zL7tfBVeGXXE5VpQ.png" tvg-id="COLORHD" ,MY: COLORS TAMIL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241004
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/sCLlyf_T5fr5AkvPufk0Wa36ijLMfoFPNrDO5s4YGq9oROA4mgiDTxMQd6nmd1kQtWbe7GbG2dF0QB9m7og6xA.png" tvg-id="SUNTV" ,MY: SUN TV HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241005
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoBaZuJd3Odzb-t_bk5WpP6vj5dC0n6FyAbaUpxCXP9GYHvGpfrH-JF1XIJfkIErppQ.png" tvg-id="astrobollyone.my" ,MY: ASTRO BOX OFFICE BOLLYONE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241006
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoLEOy9gNo6uI8aZm_OOtXh_d83w1EAFMLs1o3YKwHy5L2GWYp0G5XMsjuctCNrRNVQ.png" ,MY: iQIYI HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241007
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="GoShop.my" ,MY: ASTRO 25 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241008
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoEI4tLwQqWGVJdqkBQ4PKkwoLhJDUwTqTwhQd6AkHNJm1OKc47syIBUeEWjPpNVK8Q.png" tvg-id="AstroAura.my" ,MY: ASTRO XIAO TAI YANG HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241009
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoFHX3qThSvsQhrTTrBDdbIFIQrT3L-P1dxvVkR_wbVm487DAGQHleKcT1eyp32E4ww.png" tvg-id="TVBClassic.hk" ,MY: TVB CLASSIC HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241010
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoF1Sh6ZChBQi5IHehIDCQfglGi8OPOYE02vU2UGFUT3YBBU0Y9W0kgjyaS1VQ-UjVg.png" tvg-id="astroaec.my" ,MY: ASTRO AEC HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241011
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-Vvx1B12wW7EGRkRCH3VelcOJ2aPnje9nq21qhnYA4H_6yQPfU7jZ5usxJ5ADjl7qnZU3bIX98PR3nKelHVHfoMU.png" ,MY: ASTRO SHUANG XING HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241012
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-Vgh9a9iTSCU02ZZsxBfT9kgYQfbR_mFlsJsrUyAEL89kB9ZZit6ZaSy3-_3COLdfwA-rTdT2mPIVPzWlRrSRalQ.png" tvg-id="AstroRania.my" ,MY: ASTRO QUAN JIA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241013
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoIfsUr9ZWfU7pGfBfJkVbABbgQ3hKvGkHcBnIHGeOCJ4gGPj3Kj186WeLffQ22fMDA.png" tvg-id="celestialmovies.my" ,MY: CELESTIAL MOVIES HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241014
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoLaSw9tFaX_PiFef7YH5-Ein9GjSC5S2ZNxwAESmnWHQoOlNOEBbBRQNfQ3KGucWVA.png" tvg-id="TVBJade.hk" ,MY: TVB JADE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241015
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoIXq6_d5Wx-cDdFQizwo7thB1MYowMhV2BdMFCYfMl1rMbV0CYKcEs7hVz0l3aJNwQ.png" tvg-id="astroondemand361.my" ,MY: ASTRO AOD 351 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241016
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoHUkVxGwQjlMsf3E_H1tkesuhOqGS5D-Txa7ykgP2cT67ExU75lcd21sV7trIefPwQ.png" tvg-id="CTVDrama.ca" ,MY: CTI ASIA CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241017
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoNtZEkI0H86Srhfy9QVo5yN-PNLuqfAB4wfQ5-J57EPmgkCzbus6g3I90AcYSLl7Dg.png" tvg-id="TVBNews.hk" ,MY: TVB E-NEWS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241018
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoAKb2b0KaUtoul88IEXjQUURkHcktqZ7yi-lGz5jo-hX8ZxSRs50CQPAqu-fwPghZA.png" tvg-id="TVBXinghe.hk" ,MY: TVB XING HE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241019
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoFte6l5stXTqnC80GYq8bEATmuM0IW6jQM8bG3Wsg6p1bZhJRNO5bigpAXurB0ADHg.png" tvg-id="TVBSC" ,MY: TVBS ASIA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241020
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPHUwN5trckIQgs9XcfjrZTgMsLv9s9GYhBpYeMKkH5b2-4Tkb92_jA8GH8uESB2VQ.png" tvg-id="CCM.id" ,MY: CCM
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241021
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/16cc6d92e9c411864be6ed1b8813da8b.png" tvg-id="AstroArena.my" ,MY: ASTRO HUA HEE DAI HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241022
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/017d2b3f11c44a36e8668041bfe0f811.png" tvg-id="CCTV4.cn" ,MY: CCTV4 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241023
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoKCsdKKkSe25n7jIFUpGoHgte1g5hb5v7vPnRoDdo1KiYPZpIcucu5ilHlPQiMHmCg.png" tvg-id="AstroOnDemand352.my" ,MY: ASTRO AOD 352 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241024
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoN4Md2ES85LLE4cydG2VGR0DbpiGL45mPmOUE3U1WoYhsWji64NFGU17o8FRMkFAfw.png" tvg-id="AstroOnDemand353.my" ,MY: ASTRO AOD 353 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241025
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="AstroOnDemand354.my" ,MY: TA-DAA!
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241026
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="007.my" ,MY: ASTRO 007 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241027
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoDpXlWbz4hbZaYNez2tJqFM2J_Xt54pZoeOswLc08Jl7rlFZKW-sm36VlIrVOEvcqQ.png" tvg-id="kbsworld.my" ,MY: KBS WORLD HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241028
 #EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoLIO81yRB4tpESQBYq5yVqGmxSkjGuxsr8mej6iK05BPQQbkv1QN0Jl-ziEk-bcrvQ.png" tvg-id="one.my" ,MY: ONE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241029
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoInOxhJYAdObAVwyVK71WB4sqbrrvOtjkUhqTZKpJf7t7dHgQYQJ46ksx1UjblXBWQ.png" tvg-id="ohk.my" ,MY: Oh!K HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241030
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/acf93349a496b825bdde306eb527d1e7.png" tvg-id="TVN7.pl" ,MY: tvN HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241031
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoCUvr3G0lX40XAAovmPsl8bW7eVPA4cClIfWwhFhwqLeJfWh9eptHfKTFI530wWl4w.png" tvg-id="hits.my" ,MY: HITS MOVIES HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241032
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/sCLlyf_T5fr5AkvPufk0Wa36ijLMfoFPNrDO5s4YGq9aipE3l3D2w4xRopgorT1tO4PHsK8QPMnDtOYWIV_8gQ.png" tvg-id="HBOAS2" ,MY: HBO HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241033
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoFSRr8ZG9bzMKjBRoYLdH72FofdOeOM24jtYPgSaUZ-Kjmw9oJ8-py1HzQKtFOIvAg.png" tvg-id="cinemax.my" ,MY: CINEMAX HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241034
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoMJ8Nb-NT_d0Je4vddZht3ao1Tway0Cb46cGE3MhxF9X_iV07keth2vseTzEZW4UYQ.png" tvg-id="tvnmovies.my" ,MY: tvN MOVIES HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241035
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoF5qMPszOB5UpgMdUbRjJdKW9V_v0B6xkdqOpFBmL2afPq7OH0Y0CYvG7qXQdUFmJw.png" tvg-id="astroawani.my" ,MY: ASTRO AWANI HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241036
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPvSOvb1oVNf2E5Mcl-WztR5vzvszXslZTl7BEttP64wiyToS1i4n-KiIU12phbrCQ.png" tvg-id="bernamatv.my" ,MY: BERNAMA TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241037
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoNwzwkG4m8AoTx65hgmRgQ91Uii7NEdxGZCTCC2RaNu0ZLRFPn-LYC4R9gT9XNzg4A.png" ,MY: CGTN HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241038
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoMqgjAlvtXA5yfq1AhMcAB8QlxrRzKAA9Wg3MLO-v0nWjMJ5UiFW82m7MnuqIyJdfA.png" tvg-id="cnninternational.id" ,MY: CNN HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241039
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/sCLlyf_T5fr5AkvPufk0WR4B-qNFt_Gd7V1XxL2hOxslsZ0XdZefnCcaHZd51XlyQBuqb6M3VePx_IMXbhNY5g.png" tvg-id="BBCWLDH" ,MY: BBC WORLD NEWS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241040
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/sCLlyf_T5fr5AkvPufk0WYmAdo3sqjNq8W2ZeaQfI7V264dqWYEjWDZ3R8U3Zgd031KAdLEo-8jWgICeZ57rNA.png" tvg-id="ALJASAP" ,MY: AL JAZEERA ENGLISH HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241041
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/422ee70651337e017809983efc6b0344.png" tvg-id="skynews.id" ,MY: SKY NEWS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241042
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/ad6ea016c8dc36a14dd38e0c34e00153.png" tvg-id="channelnewsasia.id" ,MY: Channel News Asia HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241043
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoHCzjm9ZytZIglY_adFCwxynI2EpcxEITU3yKkB9TEtp0d4vQ6nstCVwO-YHLU3TIQ.png" tvg-id="CNBCAS" ,MY: CNBC
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241044
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoIjIObT0d76SHH3yQU8uHg99PB-DI0En2KwGWgDK5FNbJ3I3_iCvKPhALcpNW32hyA.png" tvg-id="BLMASIA" ,MY: BLOOMBERG TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241045
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPEhLfH5CRPJraOBDeij2yHXKIcvgF6CffnVQcEJcR8ebBa9IEfVer-qVoVuTVvgnA.png" tvg-id="abc.au" ,MY: ABC AUSTRALIA
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241046
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoJoNOg9mZkpqt0EhkqbbZdh6fXBiOh85RxNsddAsxWTjV9hYyxlpAP1Gb9AEb__7Ng.png" tvg-id="natgeowild.my" ,MY: NAT GEO WILD HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241047
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPQDHpzl6OXwr4Hpvo20-KznNzJf6qsRy93cWBn9j1bi3-L4XL_G9B3sNDr7IE4uBQ.png" tvg-id="nationalgeographicchannel.my" ,MY: NAT GEO HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241048
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoL3yBSOzPk_hHXwtrb7GM8pBqZTpQKXeoN7BBJiKgNI3LhAsLyzhq8iaWiMGpRh7ug.png" tvg-id="discoverychannel.my" ,MY: DISCOVERY CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241049
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoJYE6_By4DU7wur9lleeFc5Mkadg-2L25dJiWzVsEn7Xmd5DGKCjnTearYeEHXQa2w.png" tvg-id="discoveryasia.my" ,MY: DISCOVERY ASIA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241050
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/881e80383f4960a96e7741fc5f5ff524.png" tvg-id="discoveryscience.my" ,MY: DISCOVERY SCIENCE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241051
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoCxbENmZae2j4wPmOhWImBiFEUET6qeIorG9joK-0HEzf51wVwXUTsqCqNwhfBYrKg.png" tvg-id="history.my" ,MY: HISTORY CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241052
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoDemdy9p3FisLlXp4bvasdrrrDUs1CqFFG5hN8w2E3PJdgcJRZFcaSxKyJzA6rVKsg.png" tvg-id="animalplanet.my" ,MY: ANIMAL PLANET HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241053
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPC1hvt0WxgIWP3kW8KmjYWokiHRa5DXTwqBIDbr74YTaM3E-dGnm4_PPSuMIh93Gg.png" tvg-id="astrotutortv.my" ,MY: ASTRO TUTOR TV UPSR
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241054
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoN1C-Hq5OmY0PtNQvYv-HbpAo_w8uvvBH6H_AFMU51SCOhETmbegveUbAm47IIWJqQ.png" tvg-id="astrotutortvpt3.my" ,MY: ASTRO TUTOR TV PT3
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241055
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoHuWsNCQXwQ85oLtAZPg9w5K4hGnIE7h9B6qfGxvDEIDV9UPs5Ot_nWSx7lZ4ZuySQ.png" tvg-id="astrotutortvspm.my" ,MY: ASTRO TUTOR TV SPM
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241056
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="astrotviq.my" ,MY: Astro Box Office HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241057
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoM666m62gpk3RLF_8R-YI2wWGNmSeTx63dXM3nPhfRA8hrsrjyUJ5CzJ4_81j82xKw.png" tvg-id="astroceria.my" ,MY: ASTRO CERIA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241058
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/42798c7d2563d3020bbf5915d39c8135.png" tvg-id="disneyxd.my" ,MY: DISNEY XD HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241059
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoO2lOprPdADLR3UW3SP0aAGJEZak756vKL0IRMEvcNMF2PL53pyx167GKW4Yml3C3Q.png" tvg-id="007.my" ,MY: DISNEY JUNIOR HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241060
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/575f3f4ec03cb7bdc3a8a9f50509a8cc.png" tvg-id="disneychannel.my" ,MY: DISNEY CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241061
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoCnekPLVcuR1IYHb6tG1R-05zCRl-a_-sSJlEisj6dOrxNiUidlkVEHJnvDVJ2Vacg.png" tvg-id="cartoonnetwork.my" ,MY: CARTOON NETWORK HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241062
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoHhkdxeLivwsCedU6UVSFcs762I0LnU_uN8fCbWah57UkAKlyFrDclCZ9MHaKks7cw.png" tvg-id="nickelodeon.my" ,MY: NICKELODEON HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241063
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoIAY_h8e12_5xc_bW4JbEAY0S-M3582hIrAZQOq2pLfUvpc5c9gZWE43i2VUevCGQg.png" tvg-id="nickelodeonjunior.my" ,MY: NICK JR HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241064
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoKXBRDcfp-UT9AbAh6As1Nsi4rl6H64SrtO1a1hi_5yRUhFvD5m27QVY4TbUlqrTIQ.png" tvg-id="axn.my" ,MY: AXN HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241065
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/755f6dfb1b0833537ebf55c2194617ea.png" tvg-id="hello.my" ,MY: ASTRO HELLO HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241066
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-VnH8dpRDrxc5ESdAGfv-UhkLhfEyIHhoOADrKktvudI9M-oEfKHYsjigxAKBjM-LOitV8jqBY5FVg7bvl0JJTdc.png" tvg-id="kix.my" ,MY: KIX HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241067
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoF2tSaA3K-MsQc1jiFt-vGwQHwfsD-5rOkeLRT3IexzCvY7e9cpe4uX2jQcGOgImjw.png" tvg-id="hits.my" ,MY: HITS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241068
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoE96ozi40GHnNWPbJqBnyZegqTdoVlF8AMlloy-tFhRDHGDs93Jt6YOlDTNA2F4EPw.png" tvg-id="tlc.my" ,MY: TLC HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241069
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoCiSXgGxLL_M6ZyxaB8mZP0iQoW-Dis7RMj9bkJVOorI0Qo8z8dFeVsrOu3G28nahw.png" tvg-id="foodnetwork.my" ,MY: FOOD NETWORK HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241070
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoLe7xuwBxYkKIv2wj23tLCLq7JBTjClyjZ_qhWHSlk3Jk41sWbbZRfK4ZMiVMGFuwQ.png" tvg-id="asianfoodchannel.id" ,MY: Asian Food Network HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241071
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoL2g23lOHLF6uX2KcKGydHvgepdyuVkzKCRS4q65brQx1ZkHPvsJJI9dhmQOoacH8A.png" tvg-id="natgeopeople.my" ,MY: NAT GEO PEOPLE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241072
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-VtgPAgg342tiqzeZupl92U758Ug-gIXwFdqXngeIzlVopNOVKxJjiqzn2lNJrE_1qGHl64UWmKoNDCjm-Kg1Xa4.png" tvg-id="warnertv.my" ,MY: WARNER TV HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241073
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoLsRwFGNsJIXjqdsJwKxlEbwu3qP-SI0zO7d9fww8PCQqtitAxCGhdeliQD5P8gr0A.png" tvg-id="crimeandnvestigation.my" ,MY: CRIME & INVESTIGATION HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241074
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoF2FwIiwhoP_CZvDL9vdtD_QK3SKuudkFlclAqtAfzOyqe1pEeHiUM-6X-3GzZCCyQ.png" tvg-id="hgtv.my" ,MY: HGTV HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241075
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoErfyYy0edSNFRI8uB4yFxIkbeEPEd_JZNK0_bqWXCkWKwpk-hmbTLw3xQutmN4Lyw.png" tvg-id="dmax.my" ,MY: DMAX HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241076
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/e2d777c8110c435f42e049dd0ae3d26e.png" ,MY: COMEDY CENTRAL FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241077
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoCmVyDbM9fgUCn2yJtZcYErH1AeAWdHsffEwUGlCnvZ0gT47jiqpro-T3yRPAAAYjw.png" ,MY: MTV HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241078
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoF7Eonbz_L8IRXu-izzUG9Kwb6NC22-Ug-o5erIyuDSNOVJD6AxQ6tsXWdbsovdq7A.png" tvg-id="animax.my" ,MY: ANIMAX HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241079
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoGGf9fhMvZyEmH8WFQhMy1gMpoB3GdG5HpGPTKSzl2D86-8NtaXbCo8Q849ckHnfPA.png" tvg-id="eGGNetwork.my" ,MY: eGG Network HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241080
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoFyqYErQesdj9ifTAIE-bx_tPAcHlo0vwiYkJnJBXpw1x1vMdTZEthxp7wFAl0iUPg.png" tvg-id="007.my" ,MY: ANIPLUS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241081
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPK9JTqzf-o5O1cxyMmxwz9o4sAZsELuebuFIxqr3PF0mjfXJsU5Ef8nJFTI6p0IuA.png" ,MY: KPLUS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241082
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/sCLlyf_T5fr5AkvPufk0WYmAdo3sqjNq8W2ZeaQfI7XDb3ysxmt6QmdbnFRZIp8OxOIky_2oU7-E2_I4EeK4xw.png" tvg-id="DWEURHD" ,MY: DW HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241083
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/sCLlyf_T5fr5AkvPufk0WR4B-qNFt_Gd7V1XxL2hOxteOdZaduh_Rw3ojAyspEyWWPMT9Kef25xafeFzWBBdkw.png" tvg-id="F24EN" ,MY: FRANCE 24 ENG HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241084
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoODhXQdNSVtK94DrC20uTdU589GhOg7R58PrUJQ0iVh4KWP5QhCQoN0w_AFihE3Gpw.png" tvg-id="astrocitra.my" ,MY: ASTRO CITRA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241085
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoMKDN-iDmrKPtWYV04Xu433U2oYPWUZ7O6KlDpPY8XKe_y4uZ1eRgEsuWp1iEMRU7w.png" tvg-id="tv1.my" ,MY: TV1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241089
-
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoFSVE2m8cYeXbAPCPOYxwYkkOXS0t3sg0AEbb2E43WklmH2p1p1Q9aTbQhg9ZyEC7A.png" tvg-id="TV3.my" ,MY: TV3
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241091
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoI76GC4ojo-pGOMRHNdcZLBZsZleXy5IDLpehRBvQYDjrAfUVbjvO3rerOHyXVpSWA.png" tvg-id="boo.my" ,MY: BOO HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241092
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/7d30e9bdfdf9f3319e9ace4a1537cc57.png" tvg-id="boo.my" ,MY: 8TV FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241093
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoOwCgss52tHiWXPL_hMRpohc9_DL9a4iEfnROG4nmgui77uIF2eifh53jo4bOez5bw.png" tvg-id="TVPHD.pl" ,MY: TV9
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241094
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/501e3e1ad487cd000e3fe1a070b2cdd2.png" tvg-id="DRRamasjang.dk" ,MY: DRAMA SANGAT FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241095
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoKXgOR5evqVdgVaI4mdCwf_hiuNc8X_6tDa9KVcpbZ4OMChhnJAanRbp8JF350jv5g.png" tvg-id="ntv7.my" ,MY: NTV7
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241096
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoHI6PpZIKtBza8z5zDnHwjB85OXV3ILsQXvcQ2fO5g7fFV9dXeAeE6SIPCeiIYDRQA.png" tvg-id="babytv.my" ,MY: Baby TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241097
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-VovxgtD97fMrWZGGWorPrkRR5B-YJa8T7WNbHXl9gIImDKzZnKk981EII99GEnpk2Iuo42-d3svrMRIyi4KNMMs.png" tvg-id="bbcearth.id" ,MY: BBC EARTH HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241098
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/sCLlyf_T5fr5AkvPufk0WYmAdo3sqjNq8W2ZeaQfI7XY7LLwpDyE-tqkoxnhcqwF.png" tvg-id="bbclifestyle.za" ,MY: BBC LIFESTYLE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241099
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="007.my" ,MY: Phoenix HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241100
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/9d30215f352eb7412316b17290a98e74.png" tvg-id="blueantextreme.id" ,MY: BLUE ANT EXTREME HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241101
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoFns7SCZfs-ZNkw1oZf1gthahmrBS1WdDP34g0YqgYNG2a7ZPOfMdioth9ksPaoQVg.png" tvg-id="007.my" ,MY: BOOMERANG HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241102
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/345024f4ada46e834875487b00d360db.png" tvg-id="CinemaWorld.id" ,MY: CINEMA WORLD HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241103
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/52b96bde01f195558ad87997933f2444.png" tvg-id="ColorsCineplex.in" ,MY: COLORS CINEPLEX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241104
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/def4a8e6dcb356771aef3c3ac472f905.png" tvg-id="DreamWorks.qa" ,MY: DREAMWORKS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241105
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png" tvg-id="FXMovieChannel.us" ,MY: FX CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241109
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" tvg-id="JayaMax.in" ,MY: JAYA MAX HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241110
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/ab8ab0e890cdf55a85389bc5fbd0f368.png" tvg-id="MTVBase.za" ,MY: MTV ASIA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241111
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/6a3ddd604a13e9d0b4fd049af73c94ce.png" tvg-id="NationalGeographic.sa" ,MY: NAT GEO ASIA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241112
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/f9eff3811b833667dcea869debcc6ca2.png" tvg-id="TRTSpor.tr" ,MY: RTM SPORTS
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241113
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/41842f322a4ef0fb3fde8884d564d212.png" ,MY: NOW JELLI HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241114
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-VtC1x5yaYUuc0xyy-TesRwsMeI3nmKifKil_puk8U3TV7hGzAECd7J9kGCihuvZqHrwOAd0Frtap0NZN6ppIakw.png" ,MY: PARAMOUNT CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241115
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/de6838252f95d3b9e803b28df33b4baa.png" tvg-id="ZeeSalaam.in" ,MY: SALAAM HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241117
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/b41c3f65aaf21312bb874689c4761e26.png" tvg-id="SCMLegend.id" ,MY: SCM LEGEND HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241118
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/cb3de40ff086830960e76b8d28111928.png" ,MY: SCM - STAR CHINESE MOVIE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241119
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="https://sc.dish.com/shared/images/station-logos/SETI.png" tvg-id="TDMInfoChinese.mo" ,MY: SET INTER Chinese
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241120
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/801d8220ac5b7fadeeb1b6338e4d333a.png" tvg-id="sonysab.in" ,MY: SONY SAB
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241121
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/594047933aee929d330809b32c8c9394.png" tvg-id="sonymax.in" ,MY: SONY MAX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241122
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/7329528cbde03820a54a1b0a0c73061d.png" tvg-id="SonyTV.pt" ,MY: SONY TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241123
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/11ef3935c7cf38542281cd909e114055.png" tvg-id="StarChineseChannel.hk" ,MY: STAR CHINESE CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241124
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/d78b8d43711b1cc2e086a1ba60cfb1e5.png" ,MY: Yupp Thirai HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241126
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoGllurdbI4_QXLLfKmhhXJsC1r1Duq2sC9pvLZm7ExbVde0lTSHGV0bzRMueCibB_A.png" tvg-id="astrorania.my" ,MY: ASTRO RANIA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241127
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoDYPQI6fJSjfy4skas9vBQBe6qCAFZ2nD_e26NnGagJLQ4v90AVsw60vIMUM5GEonw.png" tvg-id="astroaura.my" ,MY: ASTRO AURA HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241128
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoMxUzGPt1IH1lnuB5cSWmD9RgTtOJKD8SDaYsrcJ87cDaUaYWb_B0K9soMufwaWSOg.png" ,MY: TVS
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241129
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-VkoheAhA6b7xiXJPCJ8nylTKVYB6CgBTf5rNpJEqhIY4Is2t1FhoBQ_ZQDqWR8EXgidRtjvZ67iCaumpInvuTlM.png" tvg-id="HBOHITS" ,MY: HBO HITS HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241130
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://mydmtn.tv:80/images/e10BkES2tBu4HPUEEPB-Vq9IcHiPvLuXWgtaO4tB-Rx8cU2sJJjPnPegjMy1IAUmhUMkh7d0KwRmytUoUofSPTX5JPjVT2l03NVXPrNhqpQ.png" tvg-id="hbofamily.my" ,MY: HBO FAMILY HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241131
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/e62976423c31946809197a15230895af.png" tvg-id="HBOSignature.id" ,MY: HBO SIGNATURE FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241132
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/18de0798aedafbe0b13765d326002691.png" tvg-id="RedbyHBO.vn" ,MY: HBO Red HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241133
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/2af35682c256cfa41d391b8c2995ff0a.png" ,MY: UNIFI SPORTS 1 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241134
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/9741d6d4ee9fa2b1a4783b03f003e448.png" ,MY: UNIFI SPORTS 2 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241135
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/64461694ef22de3fea82344fd356687f.png" ,MY: UNIFI SPORTS 3 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241136
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/00101775e3e5863afac0ed02e85b0e9b.png" ,MY: UNIFI SPORTS 4 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241137
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="astrosupersport5.my" ,MY: ASTRO SUPERSPORT 5 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241138
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/fd5f56de48239f6987d917f33e01d6a0.png" tvg-id="PolimerTV.in" ,MY: POLIMER TV HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241139
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/d6991757e9cf1b43c6d6ac9670f0017b.png" tvg-id="lovenature.uk" ,MY: Love Nature HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241140
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="lifetime.my" ,MY: LIFETIME HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241141
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/2b504aa25140abdffd1314dda628678e.png" tvg-id="ParliamentaryService.za" ,MY: Parlimen Malaysia
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241142
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-logo="http://dmtn.tv:8080/images/d39864f8adabbb1eaf7225fd56b76000.png" ,MY: UNIFI TV MOVIE LOUNGE HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241143
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="primetime.my" ,MY: PRIMEtime HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241144
-#EXTINF:-1 group-title="ASTRO | LIVE" tvg-id="showcasemovies.my" ,MY: Showcase Movies HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241145
-#EXTINF:-1 group-title="ASTRO | LIVE" ,MY: Okey TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/150368
-
+http://194.233.86.5:5080/WebRTCApp/streams/onee.m3u8
 
