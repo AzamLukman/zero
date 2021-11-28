@@ -97,7 +97,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 http://194.233.86.5:5080/WebRTCApp/streams/ceria.m3u8
 
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-country="JP" tvg-language="Japan" tvg-logo="https://i.postimg.cc/P5rHgFV6/1200px-Animax-svg.png" group-title="Kids",Animax
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+http://wanicelife.com:8880/SFL143456/73U700Y1/71100
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-country="KR" tvg-language="Korea" tvg-logo="https://i.postimg.cc/K8mr7tpS/5-1.png" group-title="General",KBS World
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
