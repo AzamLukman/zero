@@ -61,7 +61,7 @@ http://iptv.tvmalaysia.cc:80/949948/949948/6730
 #http://analoquetv.online/streams/d/Prima/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/949948/949948/6727
 
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
+#EXTINF:-1,ASTRO Warna HD
 #http://analoquetv.online/streams/d/Warna/playlist.m3u8
 #http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/949948/949948/6740
