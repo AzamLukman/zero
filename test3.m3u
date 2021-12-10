@@ -88,13 +88,15 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="Kids",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/949948/949948/6715
 
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-country="JP" tvg-language="Japan" tvg-logo="https://i.postimg.cc/P5rHgFV6/1200px-Animax-svg.png" group-title="Kids",Animax
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+http://iptv.tvmalaysia.cc:80/949948/949948/6696
+#EXTINF:-1,Aniplus HD
+http://iptv.tvmalaysia.cc:80/949948/949948/6697
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-country="KR" tvg-language="Korea" tvg-logo="https://i.postimg.cc/K8mr7tpS/5-1.png" group-title="General",KBS World
-http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+http://iptv.tvmalaysia.cc:80/949948/949948/6803
 
 #EXTINF:-1 tvg-id="nick" tvg-name="NICK" tvg-country="USA" tvg-language="English" tvg-logo="https://i.postimg.cc/d0hY1ZYr/Nick-Pluto-TV-logo.jpg" group-title="Kids", NICK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId
